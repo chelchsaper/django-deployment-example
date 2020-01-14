@@ -25,7 +25,7 @@ SECRET_KEY = '=p+t+tck^wg65z^*j^yis=g85pcrl)6zamjw98sf-axmeodp%4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['chelchsaper.pythonanywhere.com']
 
 
 # Application definition
